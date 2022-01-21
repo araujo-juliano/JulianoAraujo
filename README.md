@@ -1,5 +1,5 @@
 ## Olá!!! Sou o Juliano Araujo
-- 💻 Buscando oportunidades Front-End
+- 💻 Estou procurando colaborar em Front-End
 - 👨‍🎓 Estudando HTML5, CSS3 e JavaScript
 
 <div align = "centro">
