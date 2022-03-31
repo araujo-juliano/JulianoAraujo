@@ -1,6 +1,6 @@
 ## Olá!!! Sou o Juliano Araujo
 - 💻 Estou procurando oportunidades em Desenvolvimento Front-End
-- 👨‍🎓 Estudando HTML5, CSS3 e JavaScript
+- 👨‍🎓 Estudando HTML5, CSS3, JavaScript e TypeScript
 
 <div align = "centro">
   <a href="https://github.com/araujo-juliano">
